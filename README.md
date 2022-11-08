@@ -6,4 +6,4 @@
 # 26.10.22https://docs.google.com/document/d/1_M8iYdsN2Qr0KUMd_9uxyp5dHD0oiQAq/edit?usp=drivesdk&ouid=115306694905956160009&rtpof=true&sd=true
 # скриптыhttps://docs.google.com/document/d/1878uNc0EhX8agK63SXNZ5iNx-26Ctod0CZb6q8UMeyg/edit?usp=drivesdk
 #исправленные скриптыhttps://docs.google.com/document/d/1o3b9r8ZtTL1Xu9jErZzG3lqgLxGEIBRVV68aYH6u8hY/edit?usp=drivesdk
-
+#сертификат степикhttps://drive.google.com/file/d/15m-40pWtvKRlwJWTLQhJmyaMu-vU9tYV/view?usp=drivesdk
